@@ -31,7 +31,7 @@ Your ship moves freely across the screen, and you can aim and shoot with precisi
 
 ## Gameplay Video
 
-[![Watch the video](https://raw.githubusercontent.com/EmiliodDev/SpaceBlitz/main/media/thumbnail.png)](https://raw.githubusercontent.com/EmiliodDev/SpaceBlitz/main/media/gameplay.mp4)
+[![Space Blitz Gameplay](https://img.youtube.com/vi/E5gPHVA5qy4&ab/0.jpg)](https://www.youtube.com/watch?v=E5gPHVA5qy4&ab)
 
 ## Installation
 
@@ -100,3 +100,8 @@ This project was developed as a submission for a scholarship competition in Syst
 - **Friends and Family**: Gratitude to everyone who supported me during the development of this project.
 - **Competition Organizers**: Special thanks to the organizers for the opportunity to showcase my skills in the scholarship competition.
 
+## Usage Rights
+
+**Space Blitz** is a **non-commercial** project created solely for the purpose of the scholarship competition. The game is not intended for sale or commercial distribution. All assets and sound effects used in the game are sourced from third parties and are credited appropriately. If you are the creator of any asset or sound effect used in this project and have concerns, please contact me so we can address any issues.
+
+[Soundtrack](https://dos88.itch.io/dos-88-music-library)
