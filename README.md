@@ -31,7 +31,7 @@ Your ship moves freely across the screen, and you can aim and shoot with precisi
 
 ## Gameplay Video
 
-[![Watch the video](https://raw.githubusercontent.com/EmiliodDev/SpaceBlitz/main/media/thumbnail.png)]((https://raw.githubusercontent.com/EmiliodDev/SpaceBlitz/main/media/gameplay.mp4))
+[![Watch the video](https://raw.githubusercontent.com/EmiliodDev/SpaceBlitz/main/media/thumbnail.png)](https://raw.githubusercontent.com/EmiliodDev/SpaceBlitz/main/media/gameplay.mp4)
 
 ## Installation
 
