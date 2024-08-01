@@ -1,6 +1,6 @@
 # Space Blitz
 
-Welcome to Space Blitz, a challenging and action-packed space shooter game developed using Python and Pygame. This project was created as part of a competition for a scholarship in the field of Systems Engineering, and it was developed in just 3 days. I'm proud to say that this project won the competition, showcasing my skills in software development and creativity under pressure!
+Welcome to Space Blitz, a challenging and action-packed space shooter game developed using Python and Pygame. This project was created as part of a competition for a scholarship in the field of Computer Systems Engineering, and it was developed in just 3 days. I'm proud to say that this project won the competition, showcasing my skills in software development and creativity under pressure!
 
 ### Table of Contents
 
@@ -75,7 +75,7 @@ To play **Space Blitz**, follow these steps:
 
 ## Project Motivation
 
-This project was developed as a submission for a scholarship competition in Systems Engineering. With a tight deadline of just three days, the goal was to demonstrate skills in software development and problem-solving using Python and Pygame. This project successfully won the competition, highlighting its unique gameplay mechanics and polished execution.
+This project was developed as a submission for a scholarship competition in Computer Systems Engineering. With a tight deadline of just three days, the goal was to demonstrate skills in software development and problem-solving using Python and Pygame. This project successfully won the competition, highlighting its unique gameplay mechanics and polished execution.
 
 ## Development
 
@@ -102,6 +102,6 @@ This project was developed as a submission for a scholarship competition in Syst
 
 ## Usage Rights
 
-**Space Blitz** is a **non-commercial** project created solely for the purpose of the scholarship competition. The game is not intended for sale or commercial distribution. All assets and sound effects used in the game are sourced from third parties and are credited appropriately. If you are the creator of any asset or sound effect used in this project and have concerns, please contact me so we can address any issues.
+**Space Blitz** is a **non-commercial** project created solely for the scholarship competition. The game is not intended for sale or commercial distribution. All assets and sound effects used in the game are sourced from third parties and are credited appropriately. If you are the creator of any asset or sound effect used in this project and have concerns, please contact me so we can address any issues.
 
 [Soundtrack](https://dos88.itch.io/dos-88-music-library)
