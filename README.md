@@ -2,11 +2,15 @@
 
 Welcome to Space Blitz, a challenging and action-packed space shooter game developed using Python and Pygame. This project was created as part of a competition for a scholarship in the field of Computer Systems Engineering, and it was developed in just 3 days. I'm proud to say that this project won the competition, showcasing my skills in software development and creativity under pressure!
 
+## Gameplay Video
+
+Watch the gameplay on youtube:
+[![Space Blitz Gameplay](https://img.youtube.com/vi/E5gPHVA5qy4&ab/maxresdefault.jpg)](https://www.youtube.com/watch?v=E5gPHVA5qy4&ab_)
+
 ### Table of Contents
 
 - [Game Description](#game-description)
 - [Features](#features)
-- [Gameplay Video](#gameplay-video)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Game Controls](#game-controls)
@@ -28,10 +32,6 @@ Your ship moves freely across the screen, and you can aim and shoot with precisi
 - **Power-ups**: Collect hearts to regain lives and shields for temporary invulnerability.
 - **Beautiful Graphics**: Enjoy a visually appealing space environment.
 - **Engaging Soundtrack**: Immerse yourself in the action with an exciting soundtrack.
-
-## Gameplay Video
-
-Watch the gameplay on youtube: [![Space Blitz Gameplay](https://img.youtube.com/vi/E5gPHVA5qy4&ab/hqdefault.jpg)](https://www.youtube.com/watch?v=E5gPHVA5qy4&ab_)
 
 ## Installation
 
